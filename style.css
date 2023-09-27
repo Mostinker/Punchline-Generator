@@ -1,0 +1,12 @@
+body {
+    margin: 0;;
+}
+
+.tell-joke {
+    width: 100vw;
+    height: 100vh;
+    /* background-color: rgb(27, 1, 53); */
+    background-image: url("https://ichef.bbci.co.uk/images/ic/1200x675/p05jrsbj.jpg");
+    background-repeat: no-repeat;
+  background-size: cover;
+}
